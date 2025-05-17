@@ -25,7 +25,7 @@ The dataset contains transactional data for a UK-based online retail store from 
 
 3. **Normalization & Clustering**
    - Scaled RFM features using `StandardScaler`.
-   - Used the **Elbow Method** and **Silhouette Score** to choose `k = 4`.
+   - Used the **Elbow Method** to choose `k = 4`.
 
 4. **PCA & Visualization**
    - Applied Principal Component Analysis for 2D plotting of clusters.
